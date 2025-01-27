@@ -10,7 +10,7 @@ const Pricing = () => {
                     <div className="row">
                         <div className="col-xl-12 col-lg-12">
                             <SectionTitle>
-                                <SectionTitle.Name>Pricing</SectionTitle.Name>
+                                <SectionTitle.Name>Pricing XYZ</SectionTitle.Name>
                                 <SectionTitle.Title>Membership</SectionTitle.Title>
                                 <SectionTitle.Description>Pick the plan that suits your needs the most.</SectionTitle.Description>
                             </SectionTitle>
